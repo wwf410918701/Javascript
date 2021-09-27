@@ -27,6 +27,9 @@
         // Add tiles to DOM
 
     // Remove form from screen
-
+    const remove_form = (event) => {
+        let form=document.querySelector('#dino-compare')
+        form.remove()
+    }
 
 // On button click, prepare and display infographic
