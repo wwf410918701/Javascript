@@ -94,7 +94,7 @@ const generate_dinosaur_tile = (dinosaur,str_array) => {
     grid.appendChild(tile)
 }
 
-// 'Comparison:   '+str_array[0]+'<br>'+str_array[1]+'<br>'+str_array[2]+'<br>'+
+// 'Comparison:  
 
 const generate_human_tile = (human) => {
     let tile = document.createElement('div')
